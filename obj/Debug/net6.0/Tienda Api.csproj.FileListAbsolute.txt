@@ -1,0 +1,38 @@
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.csproj.AssemblyReference.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.AssemblyInfoInputs.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.AssemblyInfo.cs
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.csproj.CoreCompileInputs.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Tienda Api.exe
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Tienda Api.deps.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Tienda Api.runtimeconfig.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Tienda Api.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Tienda Api.pdb
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets\msbuild.Tienda Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Tienda Api.props
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tienda Api.props
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tienda Api.props
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\scopedcss\bundle\Tienda Api.styles.css
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.csproj.CopyComplete
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\refint\Tienda Api.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.pdb
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\Tienda Api.genruntimeconfig.cache
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Debug\net6.0\ref\Tienda Api.dll
