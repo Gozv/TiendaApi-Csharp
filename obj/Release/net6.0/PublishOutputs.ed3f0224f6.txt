@@ -1,0 +1,17 @@
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Tienda Api.exe
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Tienda Api.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Tienda Api.deps.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Tienda Api.runtimeconfig.json
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Tienda Api.pdb
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bloodyslave\Desktop\NET PROYECT 1\Tienda Api\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
